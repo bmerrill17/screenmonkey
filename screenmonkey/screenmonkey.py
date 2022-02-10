@@ -6,6 +6,7 @@ from pynput.mouse import Button, Controller as MouseController
 import openpyxl
 import time
 
+
 class Sequence:
     def __init__(self):
         self.actions = pandas.DataFrame(columns=['X', 'Y', 'Action', 'Button', 'Seconds', 'Type'])
