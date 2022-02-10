@@ -10,6 +10,12 @@ Thanks to Pravin Nath for developing the pynput library, which this packed is ba
 
 # Installation
 
+PyPI Installation:
+
+```
+pip install screenmonkey
+```
+
 # Examples
 
 To record and save a Sequence of actions:
